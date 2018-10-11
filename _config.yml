@@ -3,7 +3,7 @@ title: Sreenidhi Hub
 email: participation@mozilla.com
 description: >
     Get involved with the Campus initiatives at Mozilla
-baseurl: "innovationhub"
+baseurl: "/innovationhub"
 url: "https://starksources.github.io/"
 twitter_username: mozparticipate
 github_username:  mozilla
