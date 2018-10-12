@@ -117,7 +117,7 @@ background: linear-gradient(to right, #0575E6, #00F260); /* W3C, IE 10+/ Edge, F
     color: white;
     padding: 0;
     border-radius: 0;
-    height: 70px;
+    height: 100px;
 }
 
 nav a {
