@@ -110,9 +110,9 @@ ul {
 }
 
 nav.navbar {
-background: #b75505;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to right, #040623, #b75505;  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, #040623, #b75505); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: #d1720c;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #000056, #d1720c;  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #000056, #d1720c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
     color: white;
     padding: 0;
