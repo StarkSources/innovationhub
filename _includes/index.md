@@ -1,5 +1,5 @@
 <div class="container">
-  <div class="row">
+  <!--<div class="row">
     <div class="col-md-4">
       <a href="/activities/#vr-activity"><img src="/static/img/vr.gif" alt="VR" class="img-responsive"></a>
     </div>
@@ -13,16 +13,18 @@
       </p>
     </div>
   </div>
+ -->
 </div>
 
 <div class="home-about">
   <div class="container">
     <div class="row">
-      <div class="col-md-3">
+     <!-- <div class="col-md-3">
         <img src="/static/img/clubs-home.svg" alt="Mozilla Clubs" class="img-responsive">
       </div>
+   -->
       <div class="col-md-9">
-        <h2 id="what-is-a-mozilla-campus-club">What is a Mozilla Campus Club?</h2>
+        <h2 id="what-is-a-mozilla-campus-club">What is a Sreenidhi Hub ?</h2>
         <p>
           Mozilla’s mission is to ensure the Internet is a global public resource, open and accessible to all. A Mozilla University & College Club is a group of students with a passion for technology who meet regularly to advance this mission by building and innovating on open source projects that keep the web open.
         </p>
