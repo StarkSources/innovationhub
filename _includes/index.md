@@ -28,7 +28,8 @@
         <p>
           Mozilla’s mission is to ensure the Internet is a global public resource, open and accessible to all. A Mozilla University & College Club is a group of students with a passion for technology who meet regularly to advance this mission by building and innovating on open source projects that keep the web open.
         </p>
-        <p class="about muted">Not based on a University or College Campus but want to start a club? <a href="https://learning.mozilla.org/clubs">Check out the Mozilla Clubs page</a>.</p>
+       <!-- <p class="about muted">Not based on a University or College Campus but want to start a club? <a href="https://learning.mozilla.org/clubs">Check out the Mozilla Clubs page</a>.</p>
+-->
       </div>
     </div>
   </div>
@@ -41,12 +42,14 @@
   <div class="action">
     <h2>How Can I Get Involved?</h2>
     <p>To get involved, simply apply to register your existing Open Source/Tech Campus Club or start a new Club at your school!</p>
+    <!--
     <p>
       <a href="/connect/">Check to see if your school has a Campus Club.</a>
     </p>
     <p>
       <a class="btn btn-primary btn-lg" href="https://docs.google.com/forms/d/e/1FAIpQLSdKYZV3xeaIkdHyeZaZNiddF0kpRMBb-Mjb70y0HShaTXc4cg/viewform" role="button">Apply to register a Club</a>
     </p>
+  -->
   </div>
 </div>
 
