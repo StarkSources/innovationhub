@@ -121,7 +121,7 @@ background: linear-gradient(to right, #000056, #d1720c); /* W3C, IE 10+/ Edge, F
 }
 
 nav a {
-    font-size: 1.2em;
+    font-size: 1.5em;
     text-transform: uppercase;
     margin-right: 25px;
     padding-top: 42px;
@@ -138,7 +138,7 @@ nav a.inactive {
 }
 
 nav a:hover {
-    color: white;
+    color: #17DA04;
 }
 
 .navbar-brand > img {
