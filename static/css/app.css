@@ -177,7 +177,7 @@ nav a:hover {
 
     nav a.nav-link {
         display: block;
-        background: #d1720c;  
+        background-color: #d1720c;  
         color: black !important;
         padding: 10px;
         max-width: 160px;
