@@ -89,19 +89,19 @@ img[alt=sheetseeimg] {
 a,
 a:link,
 a:visited {
-    color: #3BBA99;
+    color: #000056;
     font-weight: bold;
 }
 a.btn-primary-activities:hover {
     background-color: white;
-    color: #3BBA99;
+    color: #000056;
 }
 a.btn-primary {
-    color: #3BBA99;
+    color: #000056;
 }
 
 a.btn-primary:hover {
-    background-color: #3BBA99;
+    background-color: #000056;
     color: white;
 }
 
@@ -575,7 +575,7 @@ ul.nav-tabs {
         float: left
         margin: 0 auto;
         padding-top: 50px;
-        background: #3BBA99;
+        background: #000056;
     }
 
     .timeline ul li div {
@@ -605,7 +605,7 @@ ul.nav-tabs {
         width: 6px;
         margin: 0 auto;
         padding-top: 50px;
-        background: #3BBA99;
+        background: #000056;
     }
 
     .timeline ul li div {
@@ -639,7 +639,7 @@ ul.nav-tabs {
 }
 
 a.btn-primary-activities {
-    background-color: #3BBA99;
+    background-color: #000056;
     color: white;
     margin : auto;
     display: table;
