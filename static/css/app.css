@@ -172,7 +172,9 @@ nav a:hover {
         width: 180px;
         margin: 0;
         padding: 0;
-        background-color: #3BBA99;
+        background: #d1720c;  /* fallback for old browsers */
+        background: -webkit-linear-gradient(to right, #000056, #d1720c);  /* Chrome 10-25, Safari 5.1-6 */
+        background: linear-gradient(to right, #000056, #d1720c); 
     }
 
     nav a.nav-link {
