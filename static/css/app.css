@@ -175,8 +175,12 @@ nav a:hover {
         background: #d1720c;  /* fallback for old browsers */
         background: -webkit-linear-gradient(to right, #000056, #d1720c);  /* Chrome 10-25, Safari 5.1-6 */
         background: linear-gradient(to right, #000056, #d1720c); 
-    }
-
+         
+  }
+  nav #snistlogo{
+    height:90px;
+    width:140px;
+  }
     nav a.nav-link {
         display: block;
       background: #d1720c;  /* fallback for old browsers */
