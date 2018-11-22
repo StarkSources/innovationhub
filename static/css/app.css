@@ -656,7 +656,7 @@ a.btn-primary-activities {
 
 * {box-sizing: border-box;}
 body {font-family: Verdana, sans-serif;}
-.mySlides {display: none;}
+.mySlides {}
 img {vertical-align: middle;}
 
 /* Slideshow container */
