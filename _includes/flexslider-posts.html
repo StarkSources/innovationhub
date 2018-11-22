@@ -1,36 +1,3 @@
-<div>
-	<div class="flexslider flex-design">
-		<ul class="slides" type="none">
-	  
-			<li data-thumb="static/img/photo_clubs1.jpg">
-	  			<!-- <a href="#"> -->
-		    		<img src="static/img/photo_clubs1.jpg">
-			<!--
-		    		<p class="flex-caption">photo 1</p>
-		    	-->
-			</a>
-	 		</li>
-			
-			<li data-thumb="static/img/photo_clubs2.jpg">
-	  			<!-- <a href="#"> -->
-		    		<img src="static/img/photo_clubs2.jpg">
-			
-		    	<!--	<p class="flex-caption">photo 2</p> -->
-		    	</a>
-	 		</li>
-			<li data-thumb="static/img/photo_clubs3.jpg">
-	  			<!-- <a href="#"> -->
-		    		<img src="static/img/photo_clubs3.jpg">
-			
-		    	<!--	<p class="flex-caption">photo 3</p> -->
-		    	</a>
-	 		</li>
-
-
-		</ul>
-	</div>
-	
-</div>
 <div class="slideshow-container">
 
 <div class="mySlides fade">
@@ -60,24 +27,3 @@
   <span class="dot"></span> 
 </div>
 
-<script>
-var slideIndex = 0;
-showSlides();
-
-function showSlides() {
-    var i;
-    var slides = document.getElementsByClassName("mySlides");
-    var dots = document.getElementsByClassName("dot");
-    for (i = 0; i < slides.length; i++) {
-       slides[i].style.display = "none";  
-    }
-    slideIndex++;
-    if (slideIndex > slides.length) {slideIndex = 1}    
-    for (i = 0; i < dots.length; i++) {
-        dots[i].className = dots[i].className.replace(" active", "");
-    }
-    slides[slideIndex-1].style.display = "block";  
-    dots[slideIndex-1].className += " active";
-    setTimeout(showSlides, 2000); // Change image every 2 seconds
-}
-</script>
