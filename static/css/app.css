@@ -472,7 +472,8 @@ ul.nav-tabs {
 }
 
 .site-footer a {
-    font-weight: normal;
+    font-weight: bold;
+    color: #47CCFC;
 }
 
 .site-footer .logo {
