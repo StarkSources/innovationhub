@@ -146,6 +146,12 @@ nav a:hover {
     margin-right: 20px;
 }
 
+.navbar-right > img {
+    padding-top: 10px;
+    margin-right: 20px;
+    float: right;
+}
+
 .navbar-toggler {
     float: right;
     margin-top: 20px;
