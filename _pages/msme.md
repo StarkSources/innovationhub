@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  "Get Started"
-permalink: /get-started/
+title:  "MSME"
+permalink: /msme/
 ref: about
 ---
 
