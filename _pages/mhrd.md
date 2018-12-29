@@ -1,7 +1,7 @@
 ---
 layout: map
-title: Connect
-permalink: /connect/
+title: MHRD
+permalink: /mhrd/
 ref: resources
 ---
 <script src="{{ "/static/js/sheetsee.js" | prepend: site.url }}"></script>
