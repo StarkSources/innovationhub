@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  "About Clubs"
-permalink: /about/
+title:  "Members"
+permalink: /members/
 ref: about
 ---
 
