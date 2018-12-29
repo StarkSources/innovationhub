@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  "Frequently Asked Questions"
-permalink: /faq/
+title:  "Facilities"
+permalink: /facilities/
 ref: faq
 ---
 <style type="text/css">
