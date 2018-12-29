@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  "Resources"
-permalink: /resources/
+title:  "TIE - Grad"
+permalink: /tie-grad/
 ref: resources
 ---
 
