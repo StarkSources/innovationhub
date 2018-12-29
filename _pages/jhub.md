@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  "Report"
-permalink: /report/
+title:  "J-Hub"
+permalink: /jhub/
 ref: resources
 ---
 
