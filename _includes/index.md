@@ -20,7 +20,7 @@
   <div class="container">
     <div class="row">
      <div class="col-md-3">
-        <img src="/static/img/logo.jpg" alt="Sreenidhi Hub" class="img-responsive">
+        <img src="innovationhub/static/img/logo.jpg" alt="Sreenidhi Hub" class="img-responsive">
       </div>
       
  <div class="col-md-9">
