@@ -11,6 +11,12 @@ ref: about
 {: .clear}
 &nbsp;
 
+
+
+
+
+
+<div role="tabpanel" class="tab-pane active" id="msme">
 <p>
 The abbreviated form of Ministry of Micro, Small and Medium enterprises, it has been a supporter of all the vibrant innovations that happen at the graduate and post-graduate levels. They have provided various Entrepreneurship and Skill development programs few of which were taken up by the college. This has assisted all the budding entrepreneurs in and off the campus. This support has also helped in developing the socio-economic status of Nation.
     </p>
