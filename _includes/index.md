@@ -23,7 +23,10 @@
         <img src="/static/img/clubs-home.svg" alt="Mozilla Clubs" class="img-responsive">
       </div>
    
-     <div class="col-md-9">
+     
+     
+     
+ <div class="col-md-9">
         <h2 id="what-is-a-mozilla-campus-club">What is a Sreenidhi Hub ?</h2>
         <p>
           Sreenidhi Hub is established as the Incubation and Entrepreneurship Development center at Sreenidhi Institute of Science and Technology to nurture the creative spirit and enhance the leadership qualities of our students. The Sreenidhi’s SNIST-Hub has been recognized as the Host Institute facility under the Development Commissioner – New Delhi Scheme to Support Entrepreneurship and Managerial Development of SMEs through Incubators. Under this scheme each approved student innovative idea is set to receive 6.25L of funding from the Directorate Commissioner – MSME for the startup.  The area dedicated to Sreenidhi-Hub is around 5000 Sq.ft which comprises of 10 cubicles as office space for business incubates, Tinkering/Sandbox lab Space, Technology Room, Director and Manager meeting room and training rooms for students.  Advisory committee is formed comprising of eminent engineers from industry, scientists from research lab, senior manager of bank , Dean and Director from the host institute. The advisory committee is approved by Board of Governors of the institute. 
