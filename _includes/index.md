@@ -20,12 +20,9 @@
   <div class="container">
     <div class="row">
      <div class="col-md-3">
-        <img src="/static/img/clubs-home.svg" alt="Mozilla Clubs" class="img-responsive">
+        <img src="/static/img/logo.jpg" alt="Sreenidhi Hub" class="img-responsive">
       </div>
-   
-     
-     
-     
+      
  <div class="col-md-9">
         <h2 id="what-is-a-mozilla-campus-club">What is a Sreenidhi Hub ?</h2>
         <p>
